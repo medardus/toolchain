@@ -10,7 +10,7 @@ OSX opensource toolchain
 2. download source code
  - gcc requires three other libraries: GMP, MPFR, MPC
  - gcc-4.9.1.tar.bz2 86MB [gcc](http://www.netgull.com/gcc/releases/gcc-4.9.1/gcc-4.9.1.tar.bz2)
- - gmp-6.0.0a.tar.bz2 2.2MB [gmp](https://ftp.gnu.org/gnu/gmp/gmp-6.0.0a.tar.bz2)
+ - gmp-6.0.0a.tar.bz2 2.2MB [gmp](https://gmplib.org/download/gmp/gmp-6.1.0.tar.bz2)
  - mpc-1.0.2.tar.gz 0.6MB [mpc](ftp://ftp.gnu.org/gnu/mpc/mpc-1.0.2.tar.gz)
  - mpfr-3.1.2.tar.bz2 1.2MB [mpfp](http://mpfr.loria.fr/mpfr-current/mpfr-3.1.2.tar.bz2)
 
